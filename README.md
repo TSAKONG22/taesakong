@@ -5,6 +5,33 @@ This site showcases my work in **machine learning**, **data analysis**, and **da
 
 ---
 
+## About
+
+I am a data science enthusiast with a passion for turning data into actionable insights.  
+My expertise spans **machine learning**, **data preprocessing**, **statistical analysis**, and **data visualization**.  
+I enjoy tackling complex problems across different domains, from finance and healthcare to e-commerce and entertainment.
+
+**Core Skills:**
+- **Languages:** Python, R, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch  
+- **Specialties:** Supervised & unsupervised learning, NLP, data cleaning, feature engineering, time-series analysis  
+- **Other Tools:** Git/GitHub, Jupyter Notebook, Tableau, AWS  
+
+---
+
+## 💼 Work / Projects
+
+Below are 10 machine learning projects in Python.  
+Each link takes you to the relevant project folder in this repository.
+
+---
+# Tae Sakong — Data Science & Machine Learning Portfolio
+
+Welcome to my portfolio!  
+This site showcases my work in **machine learning**, **data analysis**, and **data engineering**, with a focus on Python-based solutions that solve real-world problems.
+
+---
+
 ## 📌 About
 
 I am a data science enthusiast with a passion for turning data into actionable insights.  
@@ -12,33 +39,50 @@ My expertise spans **machine learning**, **data preprocessing**, **statistical a
 I enjoy tackling complex problems across different domains, from finance and healthcare to e-commerce and entertainment.
 
 **Core Skills:**
-- **Languages:** Python, SQL
-- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch
-- **Specialties:** Supervised & unsupervised learning, NLP, data cleaning, feature engineering, time-series analysis
-- **Other Tools:** Git/GitHub, Jupyter Notebook, Tableau, AWS
+- **Languages:** Python, SQL  
+- **Libraries & Tools:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, PyTorch  
+- **Specialties:** Supervised & unsupervised learning, NLP, data cleaning, feature engineering, time-series analysis  
+- **Other Tools:** Git/GitHub, Jupyter Notebook, Tableau, AWS  
 
 ---
 
 ## 💼 Work / Projects
 
-Below are 10 sample machine learning projects (currently placeholders).  
-Each link takes you to the relevant project folder in this repository.
+---
 
-1. [Heart Disease Prediction](projects/Heart-Disease-Prediction) — Developed a classification model to predict the likelihood of heart disease based on patient attributes such as age, cholesterol level, and blood pressure. Implemented Logistic Regression and Decision Tree classifiers, achieving high accuracy after feature scaling and hyperparameter tuning. Includes visualizations of key predictors for interpretability.
-2. [Credit Card Fraud Detection](projects/Credit-Card-Fraud) — Built a supervised machine learning pipeline to identify fraudulent transactions in a highly imbalanced dataset. Used SMOTE for oversampling, trained Random Forest and Gradient Boosting models, and evaluated performance with precision-recall metrics to minimize false positives.
-3. [House Price Prediction](projects/House-Price-Prediction) — Created a regression model to estimate housing prices using features like location, size, and condition. Applied feature engineering (log transformation, dummy encoding) and model stacking for improved predictive accuracy. The project demonstrates end-to-end workflow from data cleaning to deployment-ready predictions.
-4. [Breast Cancer Classification](projects/Breast-Cancer-Classification) —  Designed an SVM-based classification system to distinguish between malignant and benign tumors using the Wisconsin Breast Cancer dataset. Conducted EDA to identify correlations and improve feature selection, resulting in a robust, high-accuracy model suitable for early diagnosis assistance.
-5. [Movie Recommendation System](projects/Movie-Recommendation-System) — Built a hybrid recommendation system combining collaborative filtering with content-based methods. Leveraged user ratings and movie metadata to deliver personalized recommendations, improving relevancy for cold-start users. Implemented using Pandas, scikit-learn, and Surprise library.
-6. [Spam Mail Detection](projects/Spam-Mail-Detection) — Developed a Natural Language Processing pipeline to classify emails as spam or ham. Used TF-IDF vectorization with Naive Bayes and Support Vector Machines, achieving strong precision and recall. The system includes text preprocessing steps such as stopword removal and stemming.
-7. [Customer Segmentation](projects/Customer-Segmentation) —Applied K-means clustering to segment customers based on purchasing patterns and demographics. The insights can help businesses tailor marketing strategies to specific groups. The project includes elbow method and silhouette score analysis for optimal cluster selection.
-8. [Handwritten Digit Recognition](projects/Handwritten-Digit-Recognition) —Built a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. Achieved over 99% accuracy through data augmentation and model optimization. Demonstrates deep learning techniques for computer vision tasks.
-9. [Stock Price Prediction](projects/Stock-Price-Prediction) — Implemented a time-series forecasting model using LSTM neural networks to predict stock prices based on historical data. Incorporated technical indicators (moving averages, RSI) as features, and evaluated results with RMSE and directional accuracy metrics.
-10. [Iris Flower Classification](projects/Iris-Flower-Classification) — Created a classification model to identify iris flower species based on petal and sepal dimensions. Compared Decision Tree, KNN, and Logistic Regression models, with visualizations to illustrate decision boundaries. This project is a classic introduction to supervised learning workflows.
+1. **[Big Mart Sales Prediction](projects/Big-Mart-Sales-Prediction)**  
+   Developed a predictive model to forecast product sales across various Big Mart outlets using historical sales data. Performed data cleaning to address missing values, outlier detection, and encoding of categorical variables such as outlet size and item type. Experimented with Linear Regression, Random Forest, and Gradient Boosting models, tuning hyperparameters for optimal results. Achieved significant accuracy improvements by incorporating interaction terms and normalizing numerical features. This solution helps retail managers optimize stock levels, plan promotions, and improve sales forecasting accuracy.
 
+2. **[Breast Cancer Classification using Machine Learning](projects/Breast-Cancer-Classification)**  
+   Designed an ML pipeline to detect malignant and benign tumors based on the Wisconsin Breast Cancer dataset. Conducted Exploratory Data Analysis (EDA) to understand feature importance and correlations between tumor characteristics. Applied feature scaling, stratified train-test splitting, and trained Support Vector Machines and Logistic Regression models. Evaluated models using precision, recall, F1-score, and ROC-AUC to ensure clinical reliability. The approach can assist healthcare professionals in early cancer detection, potentially improving patient survival rates.
+
+3. **[Calories Burnt Prediction](projects/Calories-Burnt-Prediction)**  
+   Built a regression model to estimate calories burned during physical activities using physiological attributes like age, height, weight, heart rate, and activity duration. Performed data preprocessing including normalization and removal of multicollinear features. Compared performance of Linear Regression, Decision Trees, and Gradient Boosting, selecting the best model based on RMSE and R² scores. Incorporated feature importance analysis to identify key drivers of calorie expenditure. This project has practical applications for fitness trackers and health monitoring applications.
+
+4. **[Car Price Prediction](projects/Car-Price-Prediction)**  
+   Created a machine learning system to predict used car prices using features such as brand, manufacturing year, mileage, fuel type, and transmission type. Conducted in-depth EDA to identify pricing trends and market behavior, handling missing values and encoding categorical variables. Applied Multiple Linear Regression, Random Forest Regressor, and Gradient Boosting to compare performance, optimizing hyperparameters for accuracy. Achieved better price prediction through feature scaling and removal of irrelevant variables. This model can benefit car dealerships and online resale platforms to set competitive prices.
+
+5. **[Credit Card Fraud Detection](projects/Credit-Card-Fraud-Detection)**  
+   Developed a fraud detection system for highly imbalanced credit card transaction data. Addressed data imbalance using Synthetic Minority Oversampling Technique (SMOTE) and tested multiple classifiers including Random Forest, XGBoost, and Logistic Regression. Focused on precision-recall trade-offs to reduce false positives while maintaining strong recall for fraud cases. Evaluated models with confusion matrix, ROC-AUC, and F1-score metrics. This solution can help financial institutions detect and prevent fraudulent transactions in real time, minimizing losses and enhancing customer trust.
+
+6. **[Customer Segmentation using K Means Clustering](projects/Customer-Segmentation)**  
+   Implemented an unsupervised learning approach to group customers based on purchasing patterns and demographics. Used the elbow method and silhouette score to determine the optimal number of clusters, followed by scaling features to ensure balanced cluster formation. Created visualizations to interpret segment characteristics and inform targeted marketing strategies. Identified customer groups with distinct buying behaviors, enabling personalized promotions. This technique allows businesses to allocate marketing resources more effectively and improve customer retention.
+
+7. **[Heart Disease Prediction](projects/Heart-Disease-Prediction)**  
+   Built a classification model to assess the risk of heart disease based on medical data such as age, cholesterol, resting blood pressure, and exercise-induced angina. Preprocessed data by normalizing numerical values, encoding categorical variables, and performing feature selection. Tested models including Logistic Regression, Decision Trees, and Random Forest, optimizing them through cross-validation. Evaluated model effectiveness using ROC-AUC, accuracy, and confusion matrix results. This project can be integrated into preventive healthcare systems to assist doctors in identifying high-risk patients early.
+
+8. **[House Price Prediction](projects/House-Price-Prediction)**  
+   Designed a regression pipeline to predict house prices using property attributes like area, location, number of rooms, and amenities. Applied feature scaling, log transformation for skewed data, and dummy variable creation for categorical features. Compared Linear Regression, Lasso Regression, and Gradient Boosting, tuning parameters to minimize RMSE. Included data visualization for market trends and price distributions. This model provides a reliable tool for real estate professionals and buyers to make data-driven pricing decisions.
+
+9. **[Medical Insurance Cost Prediction](projects/Medical-Insurance-Cost-Prediction)**  
+   Created a regression model to estimate health insurance premiums based on personal details like age, BMI, smoking status, and geographic region. Performed thorough EDA to highlight cost-driving variables, followed by feature scaling and encoding of categorical data. Implemented Multiple Linear Regression and Random Forest Regressor to compare performance. Validated models using R² and Mean Absolute Error (MAE) metrics. The system can help insurers determine fair premiums and allow customers to better understand their insurance costs.
+
+10. **[Parkinson's Disease Detection](projects/Parkinsons-Disease-Detection)**  
+    Built a classification model to detect Parkinson’s disease from biomedical voice measurement data. Conducted feature selection to focus on the most relevant vocal attributes, then trained Support Vector Machines, Random Forest, and Gradient Boosting classifiers. Evaluated performance using ROC-AUC, precision, and recall to ensure medical reliability. Included visualizations of feature importance and decision boundaries for interpretability. This solution supports neurologists in early diagnosis and treatment planning.
 
 ---
 
-## 📂 View All Code
+## View All Code
 
 All code for these projects is available in this repository.  
 🔗 [**View Full Repository**](./)
@@ -49,7 +93,4 @@ All code for these projects is available in this repository.
 
 - **Email:** [taesakong@gmail.com](mailto:taesakong@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/taesakong](https://linkedin.com/in/taesakong)  
-- **GitHub:** [github.com/tsakong22](https://github.com/tsakong22)
-
----
-
+- **GitHub:** [github.com/tsakong22](https://github.com/tsakong22)  
