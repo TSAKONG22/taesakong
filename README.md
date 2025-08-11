@@ -53,7 +53,3 @@ All code for these projects is available in this repository.
 
 ---
 
-### 📄 Notes
-- These projects are **placeholders** and will be replaced with my own completed projects.
-- Each project folder contains functional code, organized files, and documentation.
-
