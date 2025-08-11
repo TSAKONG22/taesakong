@@ -19,7 +19,7 @@ I enjoy tackling complex problems across different domains, from finance and hea
 
 ---
 
-## 💼 Work / Projects
+## Work / Projects
 
 Below are 10 machine learning projects in Python.  
 Each link takes you to the relevant project folder in this repository.
@@ -32,7 +32,7 @@ This site showcases my work in **machine learning**, **data analysis**, and **da
 
 ---
 
-## 📌 About
+## About
 
 I am a data science enthusiast with a passion for turning data into actionable insights.  
 My expertise spans **machine learning**, **data preprocessing**, **statistical analysis**, and **data visualization**.  
@@ -46,7 +46,7 @@ I enjoy tackling complex problems across different domains, from finance and hea
 
 ---
 
-## 💼 Work / Projects
+## Work / Projects
 
 ---
 
