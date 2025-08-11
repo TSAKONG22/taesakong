@@ -50,10 +50,10 @@ I enjoy tackling complex problems across different domains, from finance and hea
 
 ---
 
-1. **[Big Mart Sales Prediction](/projects/Big-Mart-Sales-Prediction)**  
+1. **[Big Mart Sales Prediction](projects/big-mart-sales-prediction)**  
    Developed a predictive model to forecast product sales across various Big Mart outlets using historical sales data. Performed data cleaning to address missing values, outlier detection, and encoding of categorical variables such as outlet size and item type. Experimented with Linear Regression, Random Forest, and Gradient Boosting models, tuning hyperparameters for optimal results. Achieved significant accuracy improvements by incorporating interaction terms and normalizing numerical features. This solution helps retail managers optimize stock levels, plan promotions, and improve sales forecasting accuracy.
 
-2. **[Breast Cancer Classification using Machine Learning](projects/Breast-Cancer-Classification)**  
+2. **[Breast Cancer Classification using Machine Learning](projects/breast-Cancer-Classification)**  
    Designed an ML pipeline to detect malignant and benign tumors based on the Wisconsin Breast Cancer dataset. Conducted Exploratory Data Analysis (EDA) to understand feature importance and correlations between tumor characteristics. Applied feature scaling, stratified train-test splitting, and trained Support Vector Machines and Logistic Regression models. Evaluated models using precision, recall, F1-score, and ROC-AUC to ensure clinical reliability. The approach can assist healthcare professionals in early cancer detection, potentially improving patient survival rates.
 
 3. **[Calories Burnt Prediction](projects/Calories-Burnt-Prediction)**  
