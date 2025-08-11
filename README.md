@@ -58,7 +58,7 @@ I enjoy tackling complex problems across different domains, from finance and hea
 ## View All Code
 
 All code for these projects is available in this repository.  
-🔗 [**View Full Repository**](https://github.com/TSAKONG22/taesakong)
+🔗 [**View Full Repository**](https://github.com/TSAKONG22/taesakong/tree/main/projects)
 
 ---
 
