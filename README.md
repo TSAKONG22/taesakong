@@ -1,6 +1,5 @@
 # Tae Sakong — Data Science & Machine Learning Portfolio
 
-Welcome to my portfolio!  
 This site showcases my work in **machine learning**, **data analysis**, and **data engineering**, with a focus on Python-based solutions that solve real-world problems.
 
 ---
